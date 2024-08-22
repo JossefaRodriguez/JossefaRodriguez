@@ -11,7 +11,7 @@
 
 ## 🚀 Habilidades
 
-- **Lenguajes de programación:** Kotlin, Java, Python
+- **Lenguajes de programación:** Kotlin, Java
 - **Desarrollo móvil:** Android (Kotlin)
 - **Bases de datos:** SQL, Room Database
 - **Control de versiones:** Git, GitHub
